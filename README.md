@@ -11,6 +11,7 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067
 
 ## 課題1 ABC 095 A - Something on It
 - [問題リンク](https://atcoder.jp/contests/abc095/tasks/abc095_a)
+- [回答例](answers/exec_1.rb)
 
 ## 課題2 ABC 071 B - Not Found
 - [問題リンク](https://atcoder.jp/contests/abc071/tasks/abc071_b)
