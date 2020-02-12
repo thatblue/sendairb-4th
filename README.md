@@ -15,6 +15,8 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067
 
 ## 課題2 ABC 071 B - Not Found
 - [問題リンク](https://atcoder.jp/contests/abc071/tasks/abc071_b)
+- [回答例](answers/exec_2.rb)
 
 ## 課題3 ARC 096 C - Half and Half
 - [問題リンク](https://atcoder.jp/contests/arc096/tasks/arc096_a)
+- [回答例](answers/exec_3.rb)
